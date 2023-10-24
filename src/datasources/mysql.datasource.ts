@@ -8,7 +8,7 @@ const config = {
   host: 'localhost',
   port: 3306,
   user: 'root',
-  password: 'juanma123',
+  password: 'juan123',
   database: 'ventasdb'
 };
 
